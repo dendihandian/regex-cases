@@ -10,5 +10,8 @@
 - Regex Tutorial:
     - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex)
 
+- Regex Cheatsheet:
+    -  [https://cheatography.com/davechild/cheat-sheets/regular-expressions/](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
 - Common Regular Expression Cases: 
     - [https://ihateregex.io/](https://ihateregex.io/)
